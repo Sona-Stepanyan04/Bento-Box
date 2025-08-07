@@ -140,6 +140,7 @@ main {
         justify-content: center;
 
         img{
+            object-fit: cover;
             width: 40%;
         }
 
